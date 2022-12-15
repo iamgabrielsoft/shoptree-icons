@@ -1,6 +1,7 @@
 {
   "name": "shoptree-icons",
   "version": "0.1.0",
+  "main": "index.ts",
   "description": "Shoptree iconset designed for Shoptree",
   "license": "MIT",
   "public": true,
